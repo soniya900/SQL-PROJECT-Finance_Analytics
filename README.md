@@ -47,6 +47,4 @@ Constraints
     Entity Relationship Diagram
     ETL Data Warehouse, OLTP, OLAP, Data Catalog
     Fact vs Dimension Table, Star vs Snowflake Schema
-    Simplified : What is Kanban
-    5 Ways SQL is used in the industry
-    Supply Chain Basics : Simplified
+   
